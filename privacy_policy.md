@@ -1,4 +1,3 @@
-[Cayman](https://github.com/pages-themes/cayman)
 
 **Privacy Policy**
 
