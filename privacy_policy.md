@@ -1,15 +1,3 @@
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<style>
-    body {
-        font-size: 18px; /* 폰트 크기 조절 */
-        line-height: 1.6; /* 줄 간격 조절 */
-        padding: 20px;   /* 여백 추가 */
-        max-width: 800px;
-        margin: 0 auto;
-        font-family: sans-serif;
-    }
-</style>
-
 **Privacy Policy**
 
 This privacy policy applies to the Arithmetic Game app (hereby referred to as "Application") for mobile devices that was created by Smart Buddy Games (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
